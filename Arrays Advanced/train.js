@@ -8,7 +8,6 @@ function train(data) {
     } else {
       cmd = Number(cmd);
       for (let currentWagon of wagons) {
-        currentWagon = currentWagon;
         if (Number(currentWagon) + cmd <= maxPeople) {
           let newWagon = Number(currentWagon) + cmd;
           wagons[wagons.indexOf(currentWagon)] = newWagon;
