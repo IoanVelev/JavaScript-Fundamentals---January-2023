@@ -6,4 +6,7 @@ ABOUT THE COURSE.
 
 Certificate:
 
-![image](https://user-images.githubusercontent.com/131281353/234574902-adee1e16-800e-4b81-a21b-f43a3aaa616c.png)
+![image](https://user-images.githubusercontent.com/131281353/235363213-8c97af68-56fd-4456-822b-41a155af976d.png)
+![image](https://user-images.githubusercontent.com/131281353/235363234-09de6310-90f6-4a0e-b634-4758f90c6102.png)
+![image](https://user-images.githubusercontent.com/131281353/235363249-b5dbf517-218d-43c8-8933-a55021e0853b.png)
+
