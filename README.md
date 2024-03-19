@@ -6,7 +6,10 @@ ABOUT THE COURSE
 
 Certificate:
 
-![image](https://user-images.githubusercontent.com/131281353/235363213-8c97af68-56fd-4456-822b-41a155af976d.png)
+
+
+![image](https://github.com/IoanVelev/JS-Fundamentals-January-2023/assets/131281353/669005ea-6157-47a6-9310-ceb020d79e56)
+
 ![image](https://user-images.githubusercontent.com/131281353/235363234-09de6310-90f6-4a0e-b634-4758f90c6102.png)
 ![image](https://user-images.githubusercontent.com/131281353/235363249-b5dbf517-218d-43c8-8933-a55021e0853b.png)
 
